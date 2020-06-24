@@ -1,0 +1,26 @@
+{
+  "name": "build-slack-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeforever/build-slack-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treeforever/build-slack-apps/issues"
+  },
+  "homepage": "https://github.com/treeforever/build-slack-apps#readme",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
